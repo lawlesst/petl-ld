@@ -1,0 +1,4 @@
+petl
+git+https://github.com/RDFLib/rdflib-jsonld.git
+#development
+pytest
